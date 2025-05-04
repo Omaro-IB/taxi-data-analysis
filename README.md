@@ -1,2 +1,2 @@
 # taxi-data-analysis
-Taxi Data Analysis using Data Analytics for CISC 372
+ Investigating patterns and anomalies within NYC taxi trip data for CISC 372
